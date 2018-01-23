@@ -1,5 +1,5 @@
-<br><h1> Branch <\h1><\br>
-<br> git branch -a : See what branches? <\br>
+<br> Branch </br>
+<br> git branch -a : See what branches? </br>
 <br> git branch ___ : Make a branch <\br>
 <br> git checkout -b ___ : Make a new branch and move the pointer to the branch <\br>
 <br> git branch -d ___ : Delete a branch <\br>
