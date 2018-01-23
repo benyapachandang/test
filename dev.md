@@ -1,10 +1,10 @@
 Branch
-git branch -a : ดูว่ามีกิ่งก้านสาขาอะไรบ้าง
-git branch ___ : สร้างbranch
-git checkout -b ___ : สร้างbranchใหม่ แล้วเข้าไปในbranchนั้นเลย
-git branch -d ___ : ลบbranch
-git  commit -m "add file" : การยืนยันว่าจะอัพไฟล์
-git checkout ___ : ย้ายไปตัวแหน่งbranchที่ต้องการ
-git merge ___ : การอัพ เมื่อแก้ไขหน้าเว็บ ให้localเหมือนหน้าเว็บ
-git merge --no-ff ___ : การรวมbranch
-git fetch : การร้องขอดูสถานะ
+git branch -a : See what branches?
+git branch ___ : Make a branch
+git checkout -b ___ : Make a new branch and move the pointer to the branch
+git branch -d ___ : Delete a branch
+git  commit -m "add file" : To commit
+git checkout ___ : move the pointer to the branch
+git merge ___ : Update local 
+git merge --no-ff ___ : merge branch
+git fetch : checkout status
